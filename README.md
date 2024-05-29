@@ -1,3 +1,3 @@
-# Cityscapes-U-Net-Semantic-Segmentatio
+# Cityscapes-U-Net-Semantic-Segmentation
 
 

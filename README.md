@@ -1,3 +1,3 @@
-# Cityscapes-U-Net-Seman
+# Cityscapes-U-Net-Semant
 
 

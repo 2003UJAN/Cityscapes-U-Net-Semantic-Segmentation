@@ -1,3 +1,3 @@
-# Cityscapes-U-Net-Semanti
+# Cityscapes-U-Net-Semantic
 
 
